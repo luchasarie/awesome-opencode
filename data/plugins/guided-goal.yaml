@@ -1,0 +1,4 @@
+name: guided-goal
+repo: https://github.com/luchasarie/guided-goal
+tagline: Turns rough intent into a verified completion contract
+description: Agent Skill that interviews you and turns rough intent into a completion contract (objective, success criteria, verification, boundaries, stop conditions) before the agent starts. Installs an OpenCode `/guided-goal` command that runs in the Build agent; the same skill also works in Hermes, Codex, Claude Code and Pi.
