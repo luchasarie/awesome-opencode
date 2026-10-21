@@ -1,0 +1,4 @@
+name: agent-cleanup
+repo: https://github.com/luchasarie/agent-cleanup
+tagline: Cleans stale worktrees, branches, node_modules and agent logs
+description: '`/cleanup` skill and standalone Python CLI that frees disk space AI coding agents leave behind: merged git worktrees, stale branches, node_modules, package caches and session logs, including OpenCode snapshots and logs. It asks before deleting. Installs to `~/.agents/skills/cleanup` for OpenCode; also works in Claude Code, Codex, Cursor, Gemini CLI and Copilot.'
